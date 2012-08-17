@@ -55,7 +55,7 @@
 	<target name="-transfer" depends="-ssireplacement">
 		<echo message="Transfering..."/>
 		<scp
-				todir="developer@lamp.rokkan.com:/var/www/caesars-dev/booking"
+				todir="******@lamp.rokkan.com:/var/www/caesars-dev/booking"
 				verbose="true"
 				password="******"
 				sftp="true"
