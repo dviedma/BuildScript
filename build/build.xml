@@ -57,7 +57,7 @@
 		<scp
 				todir="developer@lamp.rokkan.com:/var/www/caesars-dev/booking"
 				verbose="true"
-				password="magicape"
+				password="******"
 				sftp="true"
 				trust="true">
 			<fileset dir="publish"/>
